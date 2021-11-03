@@ -1,0 +1,55 @@
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Quicksand", sans-serif;
+}
+h1 {
+  display: block;
+  color: black;
+  text-align: center;
+  font-size: 50px;
+}
+h2 {
+  display: block;
+  text-align: center;
+  margin: 20px;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+h3 {
+  display: block;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 30px;
+}
+.daytime {
+  font-size: 25px;
+}
+.celsius,
+.farenheit {
+  font-size: 18px;
+  border: none;
+  background: none;
+  color: blue;
+  padding: 0;
+  font-weight: bold;
+  padding-left: 0;
+  padding-right: 0;
+}
+p {
+  display: block;
+  margin-bottom: 50px;
+}
+.row {
+  font-family: "Quicksand", sans-serif;
+  text-align: center;
+}
+.col {
+  display: block;
+  text-align: center;
+}
+.changelocation {
+  display: block;
+  text-align: center;
+}
